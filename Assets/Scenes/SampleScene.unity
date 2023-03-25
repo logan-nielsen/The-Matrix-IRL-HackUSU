@@ -17060,7 +17060,7 @@ MonoBehaviour:
   _realtime: {fileID: 928346960}
   _sceneViewUUID: 
   _viewUUID: 2772e24c-c032-473a-8761-3abdf5aff093
-  _sceneViewPreventOwnershipTakeover: 0
+  _sceneViewPreventOwnershipTakeover: 1
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
   _sceneViewDestroyWhenOwnerOrLastClientLeavesMigrated: 1
   _sceneViewDestroyWhenLastClientLeaves: 1
@@ -17832,7 +17832,7 @@ MonoBehaviour:
   _realtime: {fileID: 928346960}
   _sceneViewUUID: 
   _viewUUID: 6281c8ce-a1f0-4c7a-8496-3dc215a1be86
-  _sceneViewPreventOwnershipTakeover: 0
+  _sceneViewPreventOwnershipTakeover: 1
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
   _sceneViewDestroyWhenOwnerOrLastClientLeavesMigrated: 1
   _sceneViewDestroyWhenLastClientLeaves: 1
